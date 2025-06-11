@@ -8,6 +8,12 @@
 ![Compatible with: Camunda Platform 7](https://img.shields.io/badge/Compatible%20with-Camunda%20Platform%207-26d07c) 
 [![codecov](https://codecov.io/gh/holunda-io/camunda-bpm-spring-boot-deployment/graph/badge.svg?token=yKCqS4nEEz)](https://codecov.io/gh/holunda-io/camunda-bpm-spring-boot-deployment)
 
+# Relocation
+
+This project is **relocated** to https://github.com/holunda-io/c7 and **will be developed** further there.
+Last release produced from this location was **2025.05.1**
+This repository will be archived.
+
 ## What is it good for?
 
 This library offers an alternative way to deploy processes and decisions (and even cases) to Camunda BPM and replaces the default Camunda auto deployment
