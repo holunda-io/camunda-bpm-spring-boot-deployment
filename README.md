@@ -120,14 +120,3 @@ As a result, all Camunda relevant files from the root of the classpath `src/main
 
 This library is developed under Apache 2.0 License.
 
-## Contribution
-
-If you want to contribute to this project, feel free to do so. Start
-with [Contributing guide](http://holunda.io/camunda-bpm-data/snapshot/developer-guide/contribution.html).
-
-## Maintainer
-
-[<img alt="stefanzilske" src="https://avatars.githubusercontent.com/u/10954564?v=4&s=117 width=117">](https://github.com/stefanzilske) |[<img alt="jangalinski" src="https://avatars.githubusercontent.com/u/814032?v=4&s=117 width=117">](https://github.com/jangalinski)|[<img alt="zambrovski" src="https://avatars.githubusercontent.com/u/673128?v=4&s=117 width=117">](https://github.com/zambrovski)
-:---:|:--------------------------------------------------------------------------------------------------------------------------------:|:---:|
-[stefanzilske](https://github.com/stefanzilske)|                                          [jangalinski](https://github.com/jangalinski)                                           |[zambrovski](https://github.com/zambrovski)|
-
